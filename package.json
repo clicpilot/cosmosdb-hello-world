@@ -1,0 +1,22 @@
+{
+  "name": "azure-cosmos-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clicpilot/azure-cosmos-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clicpilot/azure-cosmos-hello-world/issues"
+  },
+  "homepage": "https://github.com/clicpilot/azure-cosmos-hello-world#readme",
+  "dependencies": {
+    "documentdb": "^1.12.2"
+  }
+}
