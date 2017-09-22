@@ -6,7 +6,7 @@
     az group create --name myResourceGroup --location "China East"  
 2. Create Account
     
-    az cosmosdb create --name <cosmosdb-name> --resource-group myResourceGroup --kind GlobalDocumentDB  
+    az cosmosdb create --name &lt;cosmosdb-name&gt; --resource-group myResourceGroup --kind GlobalDocumentDB  
 3. NPM install
     
     npm install  
